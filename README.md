@@ -1,2 +1,3 @@
-# Ola mundo
+# Olá, Mundo!
+Repositório criado durante uma aula.
  
